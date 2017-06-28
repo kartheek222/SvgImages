@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SvgImages</string>
+    <string-array name="image_resource_array">
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell643/cdm/84211874d13642e6834ddb9eeb7f9a3f/4</item>
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell593/cdm/b0984657de594714b2be300acab37afb/4</item>
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell568/cdm/d2b14253343d42e6ad27c970c95d4e04/4</item>
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell577/cdm/485adb7df0c14712a233edf2dd84ca7f/4</item>
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell298/cdm/4ffa07edd34142b8923afc246f46b74d/4</item>
+        <item>http://swiftbuckets.sf-cdn.com/v1/cmg/cell767/cdm/f08361b377da48e7883471d4f2223643/4</item>
+    </string-array>
+
+</resources>
